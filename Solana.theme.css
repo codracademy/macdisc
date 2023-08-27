@@ -23,7 +23,7 @@
   --background-accent-saturation: 100%;
   --background-accent-brightness: 50%;
   /* background image */
-  --background-image: initial;
+  --background-image: url(https://i.imgur.com/3AiL3yN.png);
   --background-image-position: center;
   --background-image-size: cover;
   --background-image-blur: 0;
