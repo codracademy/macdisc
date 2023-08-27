@@ -31,7 +31,7 @@
   --background-overlay-color-lightness: 0;
   --background-hue-shift-strength: 100%;
   /* window */
-  --window-background-image: initial;
+  --window-background-image: https://raw.githubusercontent.com/codracademy/macdisc/deploy/Solana.theme.css
   --window-background-image-position: center;
   --window-background-image-attachment: fixed;
   --window-opacity: 100%;
